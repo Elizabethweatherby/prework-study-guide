@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: blue;
+    color: white;
+}
+h1,
+h2 {
+    text-align: center;
+}
+img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+  }
+  .card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+  }
+  <ul>
+  <li>A margin indicates how much space we want around the outside of an element.</li>
+  <li>A padding indicates how much space we want around the content inside an element.</li>
+  <li>color sets the color you want to use and the properties are RGB, hex, and keyword.</li>
+  <li>line-height sets the distance between lines and the values are normal, number, length, and %. </li>
+  <li>letter-spacing increases or decreases space between characters, values are normal, length.</li>
+  <li>text-align aligns the text in an element, values are left, right, center, and justify</li>
+  <li>text-decoration adds decoration to text, calues are nonem underline, overline, and line-through</li>
+  <li>text-indent indents the first line of text in an element and the values are length and % </li>
+  <li>text-transform controls the letters in an elementand the values are none, capitalize, uppercase, and lowercase</li>
+  <li>To view all CSS properties and values go to <a href=http://www.http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html</a> </li>
+</ul>
